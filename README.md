@@ -1,6 +1,6 @@
 # front-page-remover_watermark
 
-<p style="color:green">use the below command for removing front page and footer credits</p>
+use the below command for removing front page and footer credits
 
 <code>py watermark.cpython-39.pyc <file_name> remove</code>
 
