@@ -12,5 +12,14 @@ use the below command for adding front page and footer credits without removing 
 
 <code>py watermark.cpython-39.pyc <file_name></code> 
 
-
 replace <code><file_name></code> with input file name
+  
+for using multiple files copy all files to input folder and paste the following command
+
+<code>py watermark.cpython-39.pyc all</code> 
+
+You can also use the other commands with all
+
+Eg: 
+  <code>py watermark.cpython-39.pyc all remove</code>
+  <code>py watermark.cpython-39.pyc all no</code>
