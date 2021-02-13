@@ -10,7 +10,7 @@ use the below command for removing footer credits and adding front page without 
   
 use the below command for adding front page and footer credits without removing anything
 
-<code>py watermark.cpython-39.pyc <file_name> remove</code> 
+<code>py watermark.cpython-39.pyc <file_name></code> 
 
 
 replace <code><file_name></code> with input file name
